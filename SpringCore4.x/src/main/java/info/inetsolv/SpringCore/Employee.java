@@ -28,6 +28,7 @@ public class Employee {
 		System.out.println(empId);
 		System.out.println(name);
 		System.out.println(salary);
+		System.out.println("thanks");
 	}
 
 }
